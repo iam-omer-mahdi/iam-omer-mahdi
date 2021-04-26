@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iam-omer-mahdi
+- 👋 Hi, I’m Omer Mahdi
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning vue and laravel
 - 📫 You can reach me at ---> iam.omer.mahdi@gmail.com
